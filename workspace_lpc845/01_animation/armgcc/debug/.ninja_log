@@ -1,0 +1,26 @@
+# ninja log v6
+26	427	7694544744062977	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/peripherals.c.obj	2ee728170c378185
+12	478	7694544743930386	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/main.c.obj	e51dabe9eb356162
+55	606	7694544744347115	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/board.c.obj	4d5f33eed1bfe46f
+190	633	7694544745705489	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/gcc/startup_LPC845.S.obj	2e0d71e72a53db38
+41	724	7694544744214939	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/pin_mux.c.obj	2882810654a8be56
+88	767	7694544744683593	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/hardware_init.c.obj	98e772495c970e7b
+155	783	7694544745360187	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/components/uart/fsl_adapter_miniusart.c.obj	7fc9ab9e68fd7cee
+207	807	7694544745895448	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/system_LPC845.c.obj	9ca53dc765a2a431
+72	840	7694544744534238	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/01_animation/clock_config.c.obj	1eaca83a03defdf8
+429	1067	7694544748103536	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_common.c.obj	73a0fbc9c1661351
+231	1094	7694544746111170	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_clock.c.obj	8e931588e2abdb7f
+606	1333	7694544749869694	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_inputmux.c.obj	9bef9735c6adb93b
+489	1349	7694544748692199	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_common_arm.c.obj	591180dcbcb536ac
+841	1381	7694544752208870	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_syscon.c.obj	d27e4b825d513a6e
+784	1423	7694544751648205	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_reset.c.obj	414766883f4ca95d
+633	1451	7694544750134273	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_gpio.c.obj	d50ef834fc20f4a
+808	1463	7694544751880333	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_swm.c.obj	dbff13c19e68c100
+767	1522	7694544751477502	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_power.c.obj	78d9724727ed9b8d
+728	1558	7694544751088887	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/drivers/fsl_usart.c.obj	1387c5db592c973d
+1094	1561	7694544754739868	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/utilities/fsl_sbrk.c.obj	c48db28148cd3c84
+1068	1594	7694544754484940	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/utilities/fsl_syscall_stub.c.obj	4f4a2f48a1c672d1
+1333	1716	7694544757138259	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/utilities/debug_console_lite/fsl_assert.c.obj	d4c96e9ec67b894c
+1349	1769	7694544757294648	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/utilities/debug_console_lite/fsl_debug_console.c.obj	34c174f7eae71f9e
+1381	1784	7694544757613550	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk/devices/LPC845/utilities/str/fsl_str.c.obj	e27c6fa3ee1ca8d
+1784	2091	7694544761647331	new_project.elf	df938a44c974cb02

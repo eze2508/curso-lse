@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../workspace_lpc245_vs/lpc845breakout_blank"
+		},
+		{
+			"name": "lpc845breakout",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

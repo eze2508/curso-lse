@@ -1,0 +1,33 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "debug-env",
+      "displayName": "debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "C:/NXP/MCUXpressoIDE_24.12.148/ide/tools",
+        "SdkRootDirPath": "c:/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk",
+        "POSTPROCESS_UTILITY": "C:/Users/ezequ/.mcuxpressotools/mcux-fixelf/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/ezequ/.mcuxpressotools/.venv/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
+      }
+    },
+    {
+      "name": "release-env",
+      "displayName": "release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "C:/NXP/MCUXpressoIDE_24.12.148/ide/tools",
+        "SdkRootDirPath": "c:/GitHub/curso-lse/workspace_lpc845/sdks/01_animation_sdk",
+        "POSTPROCESS_UTILITY": "C:/Users/ezequ/.mcuxpressotools/mcux-fixelf/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/ezequ/.mcuxpressotools/.venv/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
+      }
+    }
+  ],
+  "buildPresets": []
+}

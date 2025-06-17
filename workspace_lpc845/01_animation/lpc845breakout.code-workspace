@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../lpc845breakout"
+		},
+		{
+			"name": "01.blinky",
+			"path": "../01.blinky"
+		},
+		{
+			"name": "lpc845breakout_blank",
+			"path": "../lpc845breakout_blank"
+		},
+		{
+			"name": "01_animation",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

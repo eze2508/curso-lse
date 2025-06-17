@@ -1,0 +1,26 @@
+# ninja log v6
+26	422	7694505872490271	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/peripherals.c.obj	e1c867edfa5117b0
+13	439	7694505872359342	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/main.c.obj	d2d3658c71677a3f
+118	469	7694505873418720	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/gcc/startup_LPC845.S.obj	344d4edb9490c0b4
+55	490	7694505872784340	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/board.c.obj	aef5792a52a59481
+134	556	7694505873576646	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/system_LPC845.c.obj	a7c98a3a4ada0e3c
+38	585	7694505872610532	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/pin_mux.c.obj	4095e269371a9f1e
+68	604	7694505872920556	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/clock_config.c.obj	224ef9ffc07cf35c
+84	621	7694505873078129	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout/hardware_init.c.obj	736032695a50ab41
+101	830	7694505873249736	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/components/uart/fsl_adapter_miniusart.c.obj	f52d165452faeb8a
+166	987	7694505873901346	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_clock.c.obj	12e1938f7b6ac799
+452	1003	7694505876754279	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_common_arm.c.obj	b5694868272c9648
+425	1101	7694505876480472	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_common.c.obj	5204f23978341f4c
+585	1124	7694505878089612	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_power.c.obj	7c36e2e2790eda13
+469	1152	7694505876924671	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_inputmux.c.obj	8181d39f0bdcb97
+604	1185	7694505878280101	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_reset.c.obj	773ab5b5afc30336
+622	1196	7694505878461177	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_swm.c.obj	b1441913a94634ec
+491	1216	7694505877148937	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_gpio.c.obj	f6bc3df91cd62e46
+560	1219	7694505877837502	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_usart.c.obj	8184b5aa7ad41663
+830	1284	7694505880532383	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/drivers/fsl_syscon.c.obj	8bdf9751cc8903a2
+1004	1315	7694505882273896	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/utilities/fsl_sbrk.c.obj	eee0a8a754f941be
+987	1331	7694505882112152	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/utilities/fsl_syscall_stub.c.obj	b7fc111245a02672
+1101	1478	7694505883241783	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/utilities/debug_console_lite/fsl_assert.c.obj	b8f36f7b0d286469
+1125	1588	7694505883486504	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/utilities/debug_console_lite/fsl_debug_console.c.obj	de10c2ec10425fb3
+1153	1613	7694505883762950	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_sdk/devices/LPC845/utilities/str/fsl_str.c.obj	b1516d09650b93ad
+1614	1974	7694505888368622	new_project.elf	3471ea6a76f320fe

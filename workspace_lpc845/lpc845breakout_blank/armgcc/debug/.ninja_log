@@ -1,0 +1,26 @@
+# ninja log v6
+46	538	7694540892682303	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/peripherals.c.obj	ebd54f0df17c5234
+26	704	7694540892490416	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/main.c.obj	3025fe60ee5fc932
+64	757	7694540892859803	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/pin_mux.c.obj	499c83e5e134bc2c
+266	778	7694540894876449	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/gcc/startup_LPC845.S.obj	eefe4af6a808b3da
+96	795	7694540893180685	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/board.c.obj	c4b57690c49327bb
+159	815	7694540893811026	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/hardware_init.c.obj	7d25d37b76cb5d2f
+115	897	7694540893372268	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/lpc845breakout_blank/clock_config.c.obj	9c7c0f85a8f88a5a
+214	1079	7694540894362289	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/components/uart/fsl_adapter_miniusart.c.obj	44b7f0fa4dfd1ced
+293	1154	7694540895141623	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/system_LPC845.c.obj	5f90f563d4551b24
+757	1346	7694540899789244	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_inputmux.c.obj	17d6254d123ad7a9
+310	1367	7694540895320796	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_clock.c.obj	273f6173e93183cf
+706	1390	7694540899278990	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_common_arm.c.obj	6ad49d82b86928fc
+778	1483	7694540899998849	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_gpio.c.obj	3e38736639dfd785
+541	1565	7694540897628011	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_common.c.obj	43571c209107b4e4
+815	1644	7694540900361742	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_power.c.obj	d4d2de5cd12f21a8
+897	1722	7694540901189619	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_reset.c.obj	2bcca4b3747c7ca7
+1079	1770	7694540903007906	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_swm.c.obj	be7559c8455bffa2
+1155	1785	7694540903757035	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_syscon.c.obj	b96066f6a3da2203
+796	1832	7694540900171835	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/drivers/fsl_usart.c.obj	fc18948d149824e3
+1346	1881	7694540905674986	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/utilities/fsl_syscall_stub.c.obj	9aca9178d511c339
+1367	1883	7694540905894641	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/utilities/fsl_sbrk.c.obj	641395a26bf55c71
+1390	1898	7694540906118829	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/utilities/debug_console_lite/fsl_assert.c.obj	2d919cddc98d0e75
+1483	2023	7694540907052699	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/utilities/debug_console_lite/fsl_debug_console.c.obj	2b2a8da8c158c986
+1566	2043	7694540907870194	CMakeFiles/new_project.elf.dir/C_/GitHub/curso-lse/workspace_lpc845/sdks/lpc845breakout_blank_sdk/devices/LPC845/utilities/str/fsl_str.c.obj	6aff877c56da3485
+2044	2496	7694540912650730	new_project.elf	e3ee474bcb9e29f4
