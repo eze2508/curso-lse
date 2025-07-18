@@ -1,0 +1,35 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "debug-env",
+      "displayName": "debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/Applications/MCUXpressoIDE_24.12.148/ide/tools",
+        "SdkRootDirPath": "/Users/juanignaciomontilla/Documents/GitHub/curso-lse/sdks/lpc845breakout_blank_sdk",
+        "POSTPROCESS_UTILITY": "/Users/juanignaciomontilla/.mcuxpressotools/mcux-fixelf/mcux-fixelf",
+        "MCUX_VENV_PATH": "",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}"
+      },
+      "cacheVariables": {}
+    },
+    {
+      "name": "release-env",
+      "displayName": "release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/Applications/MCUXpressoIDE_24.12.148/ide/tools",
+        "SdkRootDirPath": "/Users/juanignaciomontilla/Documents/GitHub/curso-lse/sdks/lpc845breakout_blank_sdk",
+        "POSTPROCESS_UTILITY": "/Users/juanignaciomontilla/.mcuxpressotools/mcux-fixelf/mcux-fixelf",
+        "MCUX_VENV_PATH": "/Users/misaelcastillo/.mcuxpressotools/.venv/bin",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}"
+      },
+      "cacheVariables": {}
+    }
+  ],
+  "buildPresets": []
+}

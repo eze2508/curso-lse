@@ -1,0 +1,6 @@
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/CMakeFiles/new_project.elf.dir
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/CMakeFiles/edit_cache.dir
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/freertos/CMakeFiles/freertos.dir
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/freertos/CMakeFiles/edit_cache.dir
+C:/Users/Juan/test/trabajo_integrador/armgcc/debug/freertos/CMakeFiles/rebuild_cache.dir
